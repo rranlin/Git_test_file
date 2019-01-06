@@ -15,6 +15,7 @@ int main()
     printf("Your name is %c\n",name);
 
     printf("Hello!!");
+    printf("\nmy name is Ran");
 
     return 0;
 }
