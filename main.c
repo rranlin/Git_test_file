@@ -8,11 +8,14 @@ int main()
     printf("\nSuch a nice function!\n");
     printf("\nHave a nice day!!");
 
-    char name[100];
+    char name;
 
     printf("what's your name ?");
     scanf("%c",&name);
-    printf("Your name is %c",name);
+    printf("Your name is %c\n",name);
+
+    printf("Hello!!");
+    printf("\nmy name is Ran");
 
     return 0;
 }
